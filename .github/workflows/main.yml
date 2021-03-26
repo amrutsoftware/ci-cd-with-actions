@@ -11,7 +11,7 @@ on:
     - releases/*
 
 env:
-  owner: <owner>
+  owner: amrutsoftware
   domain: github.io
 
 jobs:
